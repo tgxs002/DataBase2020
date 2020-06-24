@@ -3,8 +3,6 @@
 Homework for database course of THSS. Developer: 
 武笑石（Xiaoshi Wu）， 黎思宇，陈语凝
 
-[TOC]
-
 ## 前言
 DataBase2020（数据库原理课程大作业）是基于ThssDB开发的一款简易的现代关系型数据库应用，由Java实现，能够支持较多常用的sql语句，可用于开发、测试、部署数据库应用；本文档将从环境配置、运行指导、主要功能的用法介绍等角度引导用户上手使用DataBase2020。
 
